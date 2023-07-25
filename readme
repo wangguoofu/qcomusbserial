@@ -1,0 +1,4 @@
+1, make
+2, sudo modprobe usbserial
+3, sudo insmod ./qcgeneric.ko
+4, ll /dev/ttyUSB*
